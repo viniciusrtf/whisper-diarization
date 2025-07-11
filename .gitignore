@@ -1,0 +1,20 @@
+# Python virtual environments
+.venv/
+env/
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Logs and outputs
+*.log
+output_*.rttm
+
+# media that accdently ends up in repo
+*.mp3
+*.wav
+*.aac
+*.mp4
+*.ogg
+*.m4a
