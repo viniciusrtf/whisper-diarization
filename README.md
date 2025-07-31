@@ -1,0 +1,1 @@
+This script uses pyannote/speaker-diarization-3.1 in order to add diarization capabilities to openai/whisper model. It works, but you should use https://github.com/m-bain/whisperX instead. They solve the same problem, but they do it better.
